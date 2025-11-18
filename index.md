@@ -9,6 +9,11 @@ function greet(name::String)
 end
 ```
 
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 ![this is the alt-text](https://octodex.github.com/images/yaktocat.png)
+
 
 
